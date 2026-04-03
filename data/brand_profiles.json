@@ -1,0 +1,46 @@
+[
+    {
+        "brand_name": "GlowSkin",
+        "category": "skincare",
+        "tone_of_voice": "warm, conversational, science-backed but accessible",
+        "past_themes": [
+            "ingredient education",
+            "before/after",
+            "founder story"
+        ],
+        "client_rules": [
+            "Never use the word 'cheap'",
+            "Always mention dermatologist tested",
+            "Target audience is women 25-40"
+        ]
+    },
+    {
+        "brand_name": "FinTrack",
+        "category": "fintech",
+        "tone_of_voice": "confident, data-driven, no jargon",
+        "past_themes": [
+            "savings milestones",
+            "debt payoff stories",
+            "app feature demos"
+        ],
+        "client_rules": [
+            "Avoid making financial promises",
+            "Always include a disclaimer for investment content",
+            "Hook must be a surprising statistic"
+        ]
+    },
+    {
+        "brand_name": "PeakFit",
+        "category": "fitness",
+        "tone_of_voice": "high-energy, motivational, community-first",
+        "past_themes": [
+            "transformation stories",
+            "challenge formats",
+            "coach tips"
+        ],
+        "client_rules": [
+            "Always end with a CTA to join the community",
+            "Use inclusive language — no body-shaming adjacent phrasing"
+        ]
+    }
+]

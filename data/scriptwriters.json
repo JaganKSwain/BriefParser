@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Riya Sharma",
+        "slack_id": "U01XXXXXXX",
+        "on_leave": false,
+        "speciality": "skincare, lifestyle"
+    },
+    {
+        "name": "Arjun Mehta",
+        "slack_id": "U02XXXXXXX",
+        "on_leave": true,
+        "speciality": "fintech, saas"
+    },
+    {
+        "name": "Priya Nair",
+        "slack_id": "U03XXXXXXX",
+        "on_leave": false,
+        "speciality": "fitness, food"
+    },
+    {
+        "name": "Backup Writer",
+        "slack_id": "U04XXXXXXX",
+        "on_leave": false,
+        "speciality": "general"
+    }
+]

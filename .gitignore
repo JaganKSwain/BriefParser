@@ -1,0 +1,20 @@
+# Environment secrets — never commit these
+.env
+credentials.json
+
+# Runtime state — regenerated automatically
+data/processed_rows.json
+data/faiss_index/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+venv/
+.venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
