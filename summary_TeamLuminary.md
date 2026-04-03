@@ -2,7 +2,7 @@
 
 ## Team
 
-**Team Name:** TeamLuminary  
+**Team Name:** Team Luminary  
 **Members:**  
 - Jagan Kumar Swain | Orchestration
 - Ratish Ranjan Sahu | Triggering and Edge Case Handling 
@@ -114,9 +114,9 @@ Remove the LLM from the parser and any submission — no matter how incomplete o
 
 ## Repository
 
-**GitHub Repository Link:** *(fill in before submission)*  
+**GitHub Repository Link:** https://github.com/JaganKSwain/BriefParser 
 **Branch submitted:** main  
-**Commit timestamp of final submission:** *(paste commit hash + UTC timestamp before submission)*
+**Commit timestamp of final submission:** 2026-04-03 16:47:00+05:30
 
 The repository is public. The README contains full setup instructions, environment variable reference, and a sample test input.
 
